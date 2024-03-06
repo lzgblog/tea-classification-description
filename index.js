@@ -1,5 +1,6 @@
 const figlet = require('figlet');
 const cowsay = require('cowsay');
+const art = require('tea-word-art');
 
 const teaDescriptions = {
     "green": "Green tea, without fermentation, retains the original green color of the tea leaves.",
